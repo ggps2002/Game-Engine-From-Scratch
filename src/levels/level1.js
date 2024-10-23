@@ -34,3 +34,28 @@ walls.add(`208,112`);
 walls.add(`224,112`);
 walls.add(`240,112`);
 
+walls.add(`48,32`); // top boundary
+walls.add(`64,32`);
+walls.add(`80,32`);
+walls.add(`96,32`);
+walls.add(`112,16`);
+walls.add(`128,16`);
+walls.add(`144,16`);
+walls.add(`160,16`);
+walls.add(`176,16`);
+walls.add(`192,16`);
+walls.add(`208,16`);
+walls.add(`224,32`);
+walls.add(`240,32`);
+
+walls.add(`256,48`); // right boundary 
+walls.add(`256,64`);
+walls.add(`256,80`);
+walls.add(`256,96`);
+
+walls.add(`192,96`); // rocks 
+walls.add(`208,96`);
+walls.add(`224,96`);
+
+walls.add(`224,64`); // house
+walls.add(`208,64`);
