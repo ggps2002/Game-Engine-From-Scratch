@@ -16,5 +16,6 @@ This project is a **game engine** built from scratch using **JavaScript**, desig
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/game-engine-metaverse.git
-   cd game-engine-metaverse
+   npm install
+   npm run dev
 
