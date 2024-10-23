@@ -58,4 +58,5 @@ walls.add(`208,96`);
 walls.add(`224,96`);
 
 walls.add(`224,64`); // house
-walls.add(`208,64`);
+
+walls.add(`208,64`); // tree
